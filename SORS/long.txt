@@ -1,0 +1,290 @@
+Time: 26.06.2024 3:51:41
+Station ID 22 not found.
+JSON content:
+{"StationId":22,"TimeStamp":"2024-06-26T03:51:38.5170667+02:00","Value":51,"Id":"fe466a21-daf3-4999-ba17-80440dced2c8"}
+
+Time: 26.06.2024 3:51:46
+Station ID 21 not found.
+JSON content:
+{"StationId":21,"TimeStamp":"2024-04-07T09:10:07","Value":12,"Id":"910a7e21-09fc-406a-8c3b-a49f70c90c19"}
+
+Time: 26.06.2024 3:51:51
+Station ID 29 not found.
+JSON content:
+{"StationId":29,"TimeStamp":"2024-06-26T03:51:51.4900771+02:00","Value":99,"Id":"748acf61-c615-4be8-a82e-aa50db8fe7d1"}
+
+Time: 26.06.2024 3:51:56
+Station ID 10 not found.
+JSON content:
+{"StationId":10,"TimeStamp":"2024-06-26T03:51:56.5602383+02:00","Value":9,"Id":"40216188-5ac9-4bd5-b16d-cb8d1aca38b3"}
+
+Time: 26.06.2024 3:52:01
+Station ID 13 not found.
+JSON content:
+{"StationId":13,"TimeStamp":"2024-06-26T03:52:01.5807165+02:00","Value":38,"Id":"66e8f959-6110-473f-8b24-cb80ee0be579"}
+
+Time: 26.06.2024 3:52:06
+Station ID 3 not found.
+JSON content:
+{"StationId":3,"TimeStamp":"2024-01-02T11:02:52","Value":71,"Id":"6c7d6aef-5579-491e-a377-2e52edeefc32"}
+
+Time: 26.06.2024 3:52:11
+Station ID 30 not found.
+JSON content:
+{"StationId":30,"TimeStamp":"2024-06-26T03:52:11.6164693+02:00","Value":26,"Id":"ae92c6fd-be21-4132-92c8-78132c92f3aa"}
+
+Time: 26.06.2024 3:52:16
+Station ID 33 not found.
+JSON content:
+{"StationId":33,"TimeStamp":"2024-06-26T03:52:16.6441398+02:00","Value":5,"Id":"c64a0ec6-cad6-487e-b2e0-788486b12af0"}
+
+Time: 26.06.2024 3:52:21
+Station ID 18 not found.
+JSON content:
+{"StationId":18,"TimeStamp":"2024-06-26T03:52:21.6680587+02:00","Value":21,"Id":"ff340f1b-1c59-47ac-99a1-aaf83a4a48b8"}
+
+Time: 26.06.2024 3:52:31
+Station ID 32 not found.
+JSON content:
+{"StationId":32,"TimeStamp":"2024-01-19T13:04:07","Value":17,"Id":"75dce563-6412-4d91-9e7c-8ff3bf320d74"}
+
+Time: 26.06.2024 3:52:41
+Station ID 15 not found.
+JSON content:
+{"StationId":15,"TimeStamp":"2024-03-15T20:46:06","Value":23,"Id":"60e06ed2-300c-4267-b6f9-06e9b83cb487"}
+
+Time: 26.06.2024 3:52:46
+Station ID 27 not found.
+JSON content:
+{"StationId":27,"TimeStamp":"2024-01-21T02:14:46","Value":24,"Id":"2b7fa151-1576-4fe9-a702-33d52fef1269"}
+
+Time: 26.06.2024 3:52:51
+Station ID 17 not found.
+JSON content:
+{"StationId":17,"TimeStamp":"2024-03-03T03:47:48","Value":46,"Id":"5ab6800f-21af-4418-a657-2a456e2ccd39"}
+
+Time: 26.06.2024 3:52:56
+Station ID 31 not found.
+JSON content:
+{"StationId":31,"TimeStamp":"2024-06-26T03:52:56.9736055+02:00","Value":91,"Id":"51b1cf6e-c248-407c-b0b8-66011d578dcd"}
+
+Time: 26.06.2024 3:53:02
+Station ID 33 not found.
+JSON content:
+{"StationId":33,"TimeStamp":"2024-06-26T03:53:01.9912561+02:00","Value":62,"Id":"fc4e4b43-da59-4ab3-84b7-8adab14840c7"}
+
+Time: 26.06.2024 3:53:07
+Station ID 10 not found.
+JSON content:
+{"StationId":10,"TimeStamp":"2024-06-26T03:53:07.0142664+02:00","Value":39,"Id":"0bfdf569-53a1-4b7e-8beb-8c4b149199a8"}
+
+Time: 26.06.2024 3:53:12
+Station ID 27 not found.
+JSON content:
+{"StationId":27,"TimeStamp":"2024-05-19T04:33:42","Value":81,"Id":"e5fe7aca-1009-4821-9ac6-37f87f78cab8"}
+
+Time: 26.06.2024 3:53:17
+Station ID 32 not found.
+JSON content:
+{"StationId":32,"TimeStamp":"2024-06-26T03:53:17.0622104+02:00","Value":98,"Id":"746fe97d-d472-4729-8447-c2cfc77bfba0"}
+
+Time: 26.06.2024 3:53:22
+Station ID 32 not found.
+JSON content:
+{"StationId":32,"TimeStamp":"2024-06-26T03:53:22.0835213+02:00","Value":82,"Id":"8dbff2e4-9d19-486a-bb94-2196fdfb7e27"}
+
+Time: 26.06.2024 3:53:27
+Station ID 17 not found.
+JSON content:
+{"StationId":17,"TimeStamp":"2024-01-05T02:15:17","Value":27,"Id":"cd3acc33-41da-4ad4-98f0-7f74a3169f81"}
+
+Time: 26.06.2024 3:53:32
+Station ID 34 not found.
+JSON content:
+{"StationId":34,"TimeStamp":"2024-06-26T03:53:32.1244866+02:00","Value":72,"Id":"ae844b5f-9dfc-49a2-b5a3-0f69d59fa2a0"}
+
+Time: 26.06.2024 3:53:37
+Station ID 28 not found.
+JSON content:
+{"StationId":28,"TimeStamp":"2024-06-26T03:53:37.1460705+02:00","Value":94,"Id":"7bbcb2cd-968e-4639-be81-c94e27f304ef"}
+
+Time: 26.06.2024 3:53:42
+Station ID 8 not found.
+JSON content:
+{"StationId":8,"TimeStamp":"2024-06-26T03:53:42.1673982+02:00","Value":14,"Id":"ed1d2f6e-44df-4d15-9fe9-8d7e7d385784"}
+
+Time: 26.06.2024 3:53:47
+Station ID 21 not found.
+JSON content:
+{"StationId":21,"TimeStamp":"2024-01-12T23:53:57","Value":75,"Id":"59f33763-e55a-42f5-be33-6fc23e662aff"}
+
+Time: 26.06.2024 3:53:52
+Station ID 35 not found.
+JSON content:
+{"StationId":35,"TimeStamp":"2024-06-26T03:53:52.2026013+02:00","Value":5,"Id":"7fd52bcc-0522-436e-a177-2a96f371b01f"}
+
+Time: 26.06.2024 4:53:55
+Station ID 30 not found.
+JSON content:
+{"StationId":30,"TimeStamp":"2024-04-14T12:30:24","Value":46,"Id":"ed666696-76fd-4656-9030-4935b2b0dc2f"}
+
+Time: 26.06.2024 4:54:05
+Station ID 21 not found.
+JSON content:
+{"StationId":21,"TimeStamp":"2024-04-25T09:22:47","Value":6,"Id":"b4dee22f-c0f0-4156-bf04-d2c55dfeef58"}
+
+Time: 26.06.2024 4:54:15
+Station ID 19 not found.
+JSON content:
+{"StationId":19,"TimeStamp":"2024-06-26T04:54:15.5988057+02:00","Value":63,"Id":"76752713-d5b9-4734-9d01-97455e8cd0d9"}
+
+Time: 26.06.2024 4:54:20
+Station ID 32 not found.
+JSON content:
+{"StationId":32,"TimeStamp":"2024-06-26T04:54:20.625586+02:00","Value":19,"Id":"9f37373b-ec24-44d6-b8b2-6db10f54f9e3"}
+
+Time: 26.06.2024 4:54:35
+Station ID 17 not found.
+JSON content:
+{"StationId":17,"TimeStamp":"2024-05-02T08:01:34","Value":50,"Id":"70fa115b-29ff-40fb-8703-13b52dcbcb4d"}
+
+Time: 26.06.2024 4:54:40
+Station ID 17 not found.
+JSON content:
+{"StationId":17,"TimeStamp":"2024-06-14T21:38:21","Value":10,"Id":"51fbe07f-9d9a-46eb-9d1d-64cc0ae52d0b"}
+
+Time: 26.06.2024 4:54:50
+Station ID 25 not found.
+JSON content:
+{"StationId":25,"TimeStamp":"2024-01-15T22:06:03","Value":25,"Id":"20983326-5b6f-42df-81e6-4d387755ae3c"}
+
+Time: 26.06.2024 16:33:14
+Station ID 18 not found.
+JSON content:
+{"StationId":18,"TimeStamp":"2024-05-02T21:57:33","Value":53,"Id":"5457a321-fdef-4240-8149-24423958a599"}
+
+Time: 26.06.2024 16:33:19
+Station ID 32 not found.
+JSON content:
+{"StationId":32,"TimeStamp":"2024-03-22T23:24:22","Value":12,"Id":"33e62aae-e25b-4e4b-b172-25a33228e7f9"}
+
+Time: 26.06.2024 16:33:40
+Station ID 14 not found.
+JSON content:
+{"StationId":14,"TimeStamp":"2024-06-21T00:53:55","Value":74,"Id":"54ef9ccd-1da8-4434-80ae-9f8268a43553"}
+
+Time: 27.06.2024 4:18:27
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T04:18:27.7705808+02:00","Value":39,"Id":"2fcc2daa-7b8a-4dc4-8cfc-0117dd782c34","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:18:33
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-01-20T03:53:11","Value":64,"Id":"e48b5694-d691-48f1-9fcb-b8842a8ec674","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:18:53
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-01-08T06:41:14","Value":92,"Id":"cd18dff7-728b-4ce8-b838-4aa8dd97f3d2","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:18:58
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-02-29T04:52:58","Value":50,"Id":"4d01fc1a-8f94-465d-a2da-cd1a0d509e14","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:19:08
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T04:19:08.2237181+02:00","Value":70,"Id":"b53a37f6-789c-4978-97d2-78612621f7c9","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:19:13
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-05-20T03:59:30","Value":84,"Id":"9f85bcbb-2725-4efa-900f-31f9d33378b6","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:19:50
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-05-29T18:37:48","Value":1,"Id":"6001e3e2-e87a-480d-bbd7-566a6e4af950","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:39:17
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-06-27T04:39:16.2278167+02:00","Value":49,"Id":"987694b7-9772-47ed-95b2-675c0346107d","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:39:58
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T04:39:58.7593701+02:00","Value":88,"Id":"e9f205be-644b-4922-8d06-e3f221fc4e78","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:43:05
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-01-04T14:43:59","Value":78,"Id":"af77c848-1cdf-45b9-8d5e-df8304d2df87","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:44:48
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-05-28T21:01:38","Value":75,"Id":"ce2b89cb-58a9-4946-82ae-470f4d1eb367","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:44:58
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-06-27T04:44:58.1579183+02:00","Value":69,"Id":"c39d27e1-9c78-4683-b8c9-c2368f11f959","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 4:45:03
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-03-12T09:19:08","Value":32,"Id":"4d14e65b-1ed4-41d3-bd3b-e9b853693a9e","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 6:45:00
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T06:45:00.00104+02:00","Value":61,"Id":"2c711780-0c1b-4283-8d47-bebf4cf29a27","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 6:45:21
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-02-22T12:50:38","Value":42,"Id":"a62d71ca-5e3b-4752-a062-e52102f1d308","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:49:13
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T07:49:13.8122541+02:00","Value":47,"Id":"16eed668-ae63-4302-8f40-e5c0c07446d1","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:49:18
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-06-27T07:49:18.9415247+02:00","Value":36,"Id":"e99167c9-f392-4274-9d81-acc923768c4b","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:49:23
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-03-11T20:09:49","Value":95,"Id":"ec493f04-5bf2-44b4-88e1-0cc6015f5912","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:49:54
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T07:49:54.1481811+02:00","Value":92,"Id":"08472ff2-fcd5-4a98-857d-63271c0d908b","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:50:44
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T07:34:25","Value":18,"Id":"83ddd989-ac5b-4386-8b59-489f05b6c76d","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:51:14
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-05-01T13:44:36","Value":94,"Id":"5959ab9c-5293-4188-804e-ba82922bd11c","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:52:30
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T07:52:30.0110857+02:00","Value":24,"Id":"9fdb238f-e316-400f-8292-300b7c11c87d","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 7:52:50
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T07:52:50.1122766+02:00","Value":4,"Id":"5a3a724c-2b13-4294-8308-970e16e65ec8","Token":"ChangeToRealToken"}
+
