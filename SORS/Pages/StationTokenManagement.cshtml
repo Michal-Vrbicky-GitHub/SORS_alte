@@ -9,7 +9,8 @@
 <table class="table">
     <thead>
         <tr>
-            <th>Station Name</th>
+            <th>ID</th>
+            <th>Name</th>
             <th>Token</th>
             <th>Actions</th>
         </tr>
@@ -18,6 +19,7 @@
         @foreach (var station in Model.Stations)
         {
             <tr>
+                <td>@station.StationID</td>
                 <td>@station.Name</td>
                 <td>@station.Token</td>
                 <td>

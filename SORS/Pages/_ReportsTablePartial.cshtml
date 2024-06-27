@@ -1,0 +1,18 @@
+﻿@model SORS.Pages.LatestReportsModel
+
+@foreach (var report in Model.Reports)
+{
+    <tr>
+        <td>
+            <div style="width: 20px; height: 20px; background-color:
+                @(report.Value < report.LvlMin ? "red" : report.Value > report.LvlMax ? "blue" : "green");">
+            </div>
+        </td>
+        <td>@report.StationId</td>
+        <td>@report.StationName</td>
+        <td>@report.TimeStamp</td>
+        <td>@report.Value</td>
+        <td>@report.LvlMin</td>
+        <td>@report.LvlMax</td>
+    </tr>
+}

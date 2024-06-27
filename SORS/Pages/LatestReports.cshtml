@@ -1,12 +1,10 @@
 ﻿@page
-@model SORS.Pages.ReportsModel
+@model SORS.Pages.LatestReportsModel
 @{
-    ViewData["Title"] = "Reporty";
+    ViewData["Title"] = "LatestReports";
 }
 
 <h2>Reports log</h2>
-<a asp-page="/LatestReports">Latest Reports</a><!-- class="d-inline"-->
-<br />
 <label>
     <input type="checkbox" id="autoRefresh" checked />
     Auto-refresh every 5 seconds
@@ -24,8 +22,8 @@
             <th>Lvl Max</th>
         </tr>
     </thead>
-    <tbody>
-        @foreach (var report in Model.Reports.OrderBy(r => r.Value < r.LvlMin || r.Value > r.LvlMax ? 0 : 1))
+    <tbody id="reportTableBody">
+        @foreach (var report in Model.Reports)
         {
             <tr>
                 <td>
@@ -44,6 +42,8 @@
     </tbody>
 </table>
 
+<button id="loadMoreBtn" class="btn btn-primary">Načíst další</button>
+
 @section Scripts {
     <script>
         function autoRefresh() {
@@ -51,6 +51,14 @@
                 window.location.reload();
             }
         }
+
+        document.getElementById('loadMoreBtn').addEventListener('click', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            let pageSize = parseInt(urlParams.get('pageSize')) || 10;
+            pageSize += 10;
+            urlParams.set('pageSize', pageSize);
+            window.location.search = urlParams.toString();
+        });
 
         setInterval(autoRefresh, 5000);
     </script>
