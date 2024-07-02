@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/SORS/Pages/Shared/_Layout.cshtml
+/SORS/Pages/Shared/_Layout.cshtml.css
+/SORS/Pages/Shared/_Layout.cshtml
+/SORS/Pages/Shared/_Layout.cshtml
+/SORS/Pages/Shared/_Layout.cshtml.css

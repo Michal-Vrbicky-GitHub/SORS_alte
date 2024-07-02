@@ -1,0 +1,20 @@
+Time: 27.06.2024 18:35:52
+Invalid token for Station ID 1.
+JSON content:
+{"StationId":1,"TimeStamp":"2024-06-27T18:35:52.5619159+02:00","Value":23,"Id":"e8025c06-9fad-4f3a-91ed-b5b88a418f0a","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 18:35:57
+Invalid token for Station ID 5.
+JSON content:
+{"StationId":5,"TimeStamp":"2024-06-27T18:35:57.7575552+02:00","Value":91,"Id":"1ca92a58-5b6a-4f71-be61-4c5517c908a9","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 18:36:02
+Station ID 4 not found.
+JSON content:
+{"StationId":4,"TimeStamp":"2024-06-27T18:36:02.8020992+02:00","Value":1,"Id":"e003b176-a844-4b04-81ed-c4b50d7ed7c2","Token":"ChangeToRealToken"}
+
+Time: 27.06.2024 18:36:17
+Invalid token for Station ID 5.
+JSON content:
+{"StationId":5,"TimeStamp":"2024-06-27T18:36:17.972098+02:00","Value":58,"Id":"2cb6ffa7-175a-41e2-bb83-10c887eda4fe","Token":"ChangeToRealToken"}
+
